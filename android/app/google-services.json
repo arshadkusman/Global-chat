@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983692181615",
+    "project_id": "global-chat-app-95e1c",
+    "storage_bucket": "global-chat-app-95e1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983692181615:android:2a5f8fe1bedb9deba24d9a",
+        "android_client_info": {
+          "package_name": "com.dummyapps.globalchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo74GDDokb_qt8EsOyP4i158b6PYeaST8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
